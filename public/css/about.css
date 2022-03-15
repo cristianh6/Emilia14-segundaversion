@@ -1,6 +1,25 @@
-body.about {
-    background-color: blue;
+.bodyAbout {
+    background-color: coral;
+    background-image: url("/images/emilia-about.jpg");
+    background-repeat: no-repeat;
+    background-size: 75%;
+    background-position: right top;
 }
-.about h1{
-    line-height: 10px;
+
+.bodyAbout section{
+    margin-left: 30px;
+    color: #2da68f;
 }
+
+.bodyAbout h4{
+    font-size: 24px;
+}
+
+.bodyAbout{
+    padding: 0%;
+}
+
+.bodyAbout ul li{
+    list-style-type: initial;
+}
+

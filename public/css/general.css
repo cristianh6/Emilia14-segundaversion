@@ -16,6 +16,10 @@ h1, h2{
     font-family: "Raleway";
 }
 
+h1{
+    font-size: 64px;
+}
+
 header nav ul li{
     text-transform: uppercase;
 }
