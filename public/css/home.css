@@ -1,0 +1,32 @@
+body.bodyHome {
+    background-color: coral;
+    background-image: url("/images/emilia-home.jpg");
+    background-repeat: no-repeat;
+    background-size: 75%;
+    background-position: right -65px;
+}
+
+.bodyHome header{
+    margin-left: 30px;
+}
+
+.bodyHome header nav ul li{
+    margin: 10px 0px;
+}
+
+.bodyHome header nav ul li a {
+    color: gray;
+}
+
+.bodyHome h1{
+    background-color: rgba(255, 255, 255, 0.5);
+    font-size: 64px;
+    margin-top: 120px;
+}
+
+.bodyHome h2{
+    font-family: "Work Sans";
+    font-size: 36px;
+    margin-left: 30px;
+    margin-top: 200px;    
+}
