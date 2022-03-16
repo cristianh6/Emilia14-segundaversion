@@ -1,0 +1,23 @@
+.homeMusic header {
+    background-image: url("/images/emilia-music-top.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.homeMusic a.goTop{
+    color: gray;
+}
+
+.homeMusic main section ul li{
+    list-style-type: decimal-leading-zero;
+}
+
+.homeMusic main section ul li a{
+    font-weight: 150;
+}
+
+.homeMusic main section p{
+    line-height: 15px;
+}
