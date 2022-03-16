@@ -1,3 +1,7 @@
+header.horizontal{
+    padding: 30px;
+    margin: 30px;
+}
 header.horizontal nav ul li{
     display: inline;
 }
@@ -14,3 +18,4 @@ header.horizontal nav.menu{
 header.horizontal nav.redes{
     margin-top: 10px;
 }
+

@@ -1,3 +1,11 @@
-body.contact {
-    background-color: violet;
+.homeContact h4{
+    color: var(--colorEsmeralda);
+}
+
+.homeContact a.dataInfo{
+    color: grey;
+}
+
+.homeContact main section article p{
+    line-height: 10px;
 }
